@@ -3,6 +3,8 @@
 
 Certainly! Here's a categorized list of important dynamic programming problems based on the type of dynamic programming approach used. You can paste this in your README file on GitHub.
 
+https://leetcode.com/discuss/post/1000929/solved-all-dynamic-programming-dp-proble-8m82/
+
 ### Dynamic Programming Problems Categorized by Type
 
 #### 1. **1D DP**
