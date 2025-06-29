@@ -7,6 +7,8 @@ https://leetcode.com/discuss/post/1000929/solved-all-dynamic-programming-dp-prob
 
 https://leetcode.com/discuss/post/662866/dp-for-beginners-problems-patterns-sampl-atdb/
 
+https://leetcode.com/discuss/post/6486780/dynamic-programming-patterns-by-wingedxw-0s52/
+
 ### Dynamic Programming Problems Categorized by Type
 
 #### 1. **1D DP**
