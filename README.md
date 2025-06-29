@@ -5,6 +5,8 @@ Certainly! Here's a categorized list of important dynamic programming problems b
 
 https://leetcode.com/discuss/post/1000929/solved-all-dynamic-programming-dp-proble-8m82/
 
+https://leetcode.com/discuss/post/662866/dp-for-beginners-problems-patterns-sampl-atdb/
+
 ### Dynamic Programming Problems Categorized by Type
 
 #### 1. **1D DP**
